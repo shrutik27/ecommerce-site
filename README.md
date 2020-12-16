@@ -1,2 +1,2 @@
 # ecommerce-site
-a basic introduction to using github
+A collaborative project on building an amazing e-commerce website 
